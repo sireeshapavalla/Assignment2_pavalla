@@ -11,4 +11,10 @@ One of the wonders. it is hill place,**it has ancient history and culture, oldes
 4. Keep right  at the road to continue on I29 S
 5. Turn right 
     1. Take flight from kansas city airport
-    2. Reached charlotte 
+    2. Reached charlotte
+
+* Backpack. 
+* camera
+* Flight Ticket 
+* Passport
+* cloths
