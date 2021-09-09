@@ -31,3 +31,9 @@ One of the wonders. it is hill place,**it has ancient history and culture, oldes
 |cookie crumble     |star bucks      |15$
 |chicken spicey     |chick fila      |11$
 |avacado veg        |einstein baggles|20$
+
+--------------------
+
+# Pitty Quotes
+> The question isn't who is going to let me; it's who is going to stop me
+>> A creative man is motivated by the desires to achieve, not by the desire to beat others.
