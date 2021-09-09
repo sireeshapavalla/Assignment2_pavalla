@@ -20,3 +20,14 @@ One of the wonders. it is hill place,**it has ancient history and culture, oldes
 * cloths
 
 ![Link of about me](siripic.jpg)
+
+-----------
+# Tables
+|The table contains the best food items that are available in charlotte
+
+|Food Items         |Location        |Amount
+|---------          |---------       |-------
+|thin crust veg     |pls vas         |7$
+|cookie crumble     |star bucks      |15$
+|chicken spicey     |chick fila      |11$
+|avacado veg        |einstein baggles|20$
